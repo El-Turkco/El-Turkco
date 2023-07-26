@@ -25,4 +25,5 @@
 <h2>Connect with me</2>
 <a href= https://www.linkedin.com/in/emre-g%C3%BCnd%C3%BCz-54565622b/ >Linkedin</a>
 <a href= https://www.instagram.com/emre.gunduz.20/>İnstagram</a>
+<a href= https://medium.com/@galatasaray22100/>Medium</a>  
 </p>
