@@ -15,9 +15,8 @@
 <p>
 <h2>Languages and Tools</h2>
 * Python,C#
-* HTML,CSS
+* Javascript
 * LİNUX,NETWORK
-* MYSQL
 </p>
 
 
