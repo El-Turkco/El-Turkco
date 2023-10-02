@@ -2,13 +2,13 @@
 
                                                                 Hi 👋,I'am Emre  
 
-                                                       Software and Cyber Security Student
+                                                       Software and Junior web security research
   
 
 <a href= https://tryhackme.com/p/ElTurcoo >TryHackme</a>
 
 <p>
-  I'm a second year computer programming student. I've been doing software development for over a year, I'm also interested in cyber security.
+ I have been interested in software and cybersecurity for over three years. I currently work professionally as a bug bounty and backend developer.
 </p>
 
 
